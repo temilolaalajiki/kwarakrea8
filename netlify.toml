@@ -1,7 +1,3 @@
-[build]
-  command = "bun run build:static"
-  publish = "dist-static"
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
