@@ -1,6 +1,8 @@
+[build]
+  command = "bun run build:static"
+  publish = "dist-static"
+
 [[redirects]]
   from = "/*"
-  to = "/"
+  to = "/index.html"
   status = 200
-  force = true
-
