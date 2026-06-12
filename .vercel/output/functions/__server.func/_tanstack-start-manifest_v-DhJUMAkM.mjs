@@ -1,0 +1,4 @@
+const tsrStartManifest = () => ({ routes: { __root__: { filePath: "/home/l2e/Documents/kwarakrea8/src/routes/__root.tsx", children: ["/", "/admin", "/email/unsubscribe", "/lovable/email/suppression", "/lovable/email/queue/process", "/lovable/email/transactional/preview", "/lovable/email/transactional/send"], assets: void 0, preloads: ["/assets/index-aoq68Z5X.js"] }, "/": { filePath: "/home/l2e/Documents/kwarakrea8/src/routes/index.tsx", children: void 0, assets: void 0, preloads: ["/assets/index-BeiA0WL1.js", "/assets/ThemeToggle-zMgCjGMd.js"] }, "/admin": { filePath: "/home/l2e/Documents/kwarakrea8/src/routes/admin.tsx", children: void 0, assets: void 0, preloads: ["/assets/admin-C-55T6zU.js", "/assets/ThemeToggle-zMgCjGMd.js", "/assets/chevron-down-kyQMt3Ot.js"] } }, clientEntry: "/assets/index-aoq68Z5X.js" });
+export {
+  tsrStartManifest
+};
